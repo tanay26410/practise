@@ -1,0 +1,1 @@
+{"name":"Local: chef weight balance","url":"f:\\py\\codechef\\chef weight balance.py","tests":[{"id":1657763821610,"input":"5\n1 2 1 2 2\n2 4 1 2 2\n4 8 1 2 2\n5 8 1 2 2\n1 100 1 2 2","output":"0\n1\n1\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\codechef\\chef weight balance.py","group":"local","local":true}

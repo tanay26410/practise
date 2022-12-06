@@ -1,0 +1,1 @@
+{"name":"Local: conn","url":"f:\\py\\codechef\\conn.py","tests":[{"id":1657731773570,"input":"4\n2\n5\n7\n11","output":"YES\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\codechef\\conn.py","group":"local","local":true}

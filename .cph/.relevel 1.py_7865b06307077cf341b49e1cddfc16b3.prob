@@ -1,0 +1,1 @@
+{"name":"Local: relevel 1","url":"f:\\py\\relevel 1.py","tests":[{"id":1657432173905,"input":"2\n4\n6 -1 2 6\n3\n-1 2 3","output":"1 -7\n0 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\relevel 1.py","group":"local","local":true}

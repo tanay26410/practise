@@ -1,0 +1,1 @@
+{"name":"Local: chef probcat","url":"f:\\py\\codechef\\chef probcat.py","tests":[{"id":1657604305491,"input":"3\n50\n172\n201","output":"Easy\nMedium\nHard"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\codechef\\chef probcat.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: valid number","url":"f:\\PYthon code\\ds\\valid number.py","tests":[{"id":1663145649952,"input":".","output":"False"},{"id":1663145662560,"input":"e","output":"False"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PYthon code\\ds\\valid number.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: nth root of number using binary search","url":"f:\\py\\nth root of number using binary search.py","tests":[{"id":1657967263804,"input":"3\n27","output":"3.000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\nth root of number using binary search.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: equalise","url":"f:\\PYthon code\\codechef\\equalise.py","tests":[{"id":1660405740514,"input":"4\n5 20\n6 6\n12 2\n50 20","output":"YES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PYthon code\\codechef\\equalise.py","group":"local","local":true}

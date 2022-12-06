@@ -1,0 +1,5 @@
+n= int(input())
+m = map(int, input().split())
+a=max(m)
+m.remove(a)
+print(max(m))

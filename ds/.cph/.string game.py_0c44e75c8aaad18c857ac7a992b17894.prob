@@ -1,0 +1,1 @@
+{"name":"Local: string game","url":"f:\\PYthon code\\ds\\string game.py","tests":[{"id":1668281900289,"input":"4\n4\nabab\n5\ncbcba\n4\nabcd\n6\npqprqr","output":""},{"id":1668282673676,"input":"1\n4\nabab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PYthon code\\ds\\string game.py","group":"local","local":true}

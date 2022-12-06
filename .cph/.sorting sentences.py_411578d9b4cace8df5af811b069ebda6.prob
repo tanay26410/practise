@@ -1,0 +1,1 @@
+{"name":"Local: sorting sentences","url":"f:\\py\\sorting sentences.py","tests":[{"id":1657555986076,"input":"is2 sentence4 This1 a3","output":"This is a sentence"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\sorting sentences.py","group":"local","local":true}

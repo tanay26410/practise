@@ -1,0 +1,1 @@
+{"name":"Local: grid balance","url":"f:\\py\\codechef\\grid balance.py","tests":[{"id":1658336828369,"input":"5\n1 1\n4 5\n6 8\n3 2\n7 7","output":"1\n4\n0\n2\n13"},{"id":1658336841311,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\py\\codechef\\grid balance.py","group":"local","local":true}

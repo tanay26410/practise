@@ -1,0 +1,17 @@
+#baseballgame
+def base(ops):
+    li=[]
+    for i in ops:
+        if i.isnumeric():
+            li.append(i)
+        else:
+            if i=='C':
+                li.pop()
+            if i=='D':
+                li.append(2*li.pop())
+            if i=='+':
+                li.append(sum(li))
+    return sum(li)
+li=list(input().split())
+ans=base(li)
+print(ans)

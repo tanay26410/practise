@@ -1,0 +1,1 @@
+{"name":"Local: gamewithstring","url":"f:\\PYthon code\\gamewithstring.py","tests":[{"id":1660116367572,"input":"abccc\n1","output":"6"},{"id":1660116390313,"input":"aabcbcbcabcc\n3","output":"27"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PYthon code\\gamewithstring.py","group":"local","local":true}
