@@ -2,8 +2,9 @@
 from collections import defaultdict
 def group(gs):
     d=defaultdict(list)
+    res=[]
     for i in range(len(gs)):
-        d[gs[i]].append(i)
+        
     return d
 gs=[3,3,3,3,3,1,3]
 print(group(gs))
