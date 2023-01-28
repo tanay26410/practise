@@ -7,6 +7,7 @@ def KMPSearch(s:str, p:str):
     # values for ptern
     lps = [0]*M
     j = 0 # index for p[]
+ #no changes 
  
     # Preprocess the ptern (calculate lps[] array)
     computeLPSArray(p, M, lps)
@@ -58,3 +59,4 @@ def computeLPSArray(p, M, lps):
 txt = "ABABDABACDABABCABAB"
 pat = "ABABCABAB"
 KMPSearch(pat, txt)
+print('No changes')
