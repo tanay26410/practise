@@ -4,7 +4,7 @@ def group(gs):
     d=defaultdict(list)
     res=[]
     for i in range(len(gs)):
-        
-    return d
+        res.apprnd(i)
+    return res
 gs=[3,3,3,3,3,1,3]
 print(group(gs))
