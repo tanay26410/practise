@@ -1,0 +1,1 @@
+{"name":"Local: merge triplets to form target triplet","url":"f:\\PYthon code\\merge triplets to form target triplet.py","tests":[{"id":1687276765998,"input":"[[2,5,3],[1,8,4],[1,7,5]]\n[2,7,5]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PYthon code\\merge triplets to form target triplet.py","group":"local","local":true}
